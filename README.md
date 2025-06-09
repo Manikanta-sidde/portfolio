@@ -1,5 +1,4 @@
 # portfolio
-My Portfolio
 # Manikanta Portfolio Website
 
 This is my personal portfolio website built using **HTML5** and **CSS3**. It showcases my skills, projects, and certifications as an aspiring Web Developer.
